@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		C0DDAE56219EA45A00F72F40 /* Gapful Numbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Gapful Numbers"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0DDAE59219EA45A00F72F40 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C0DDAE61219EB86D00F72F40 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				C0DDAE59219EA45A00F72F40 /* main.cpp */,
+				C0DDAE61219EB86D00F72F40 /* Readme.md */,
 			);
 			path = "Gapful Numbers";
 			sourceTree = "<group>";
