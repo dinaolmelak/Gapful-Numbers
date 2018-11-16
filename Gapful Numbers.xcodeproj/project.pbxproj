@@ -44,6 +44,7 @@
 			children = (
 				C0DDAE58219EA45A00F72F40 /* Gapful Numbers */,
 				C0DDAE57219EA45A00F72F40 /* Products */,
+				C0DDAE61219EB86D00F72F40 /* Readme.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -59,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				C0DDAE59219EA45A00F72F40 /* main.cpp */,
-				C0DDAE61219EB86D00F72F40 /* Readme.md */,
 			);
 			path = "Gapful Numbers";
 			sourceTree = "<group>";
