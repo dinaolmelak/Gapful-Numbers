@@ -1,7 +1,8 @@
 **Gapful Numbers**
 
 This is a Solo Learn Challenge of a program
-The program is to identify whether or not a number is a Gapful Number
+The program is to identify whether or not a number is a Gapful Number.
+
 **Gapful Number**:- is a number of at least 3 digits that is divisible by the number formed by the first and last digit of the original number
 
 **Algorithm to Solve this problem**
